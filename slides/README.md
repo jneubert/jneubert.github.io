@@ -1,1 +1,1 @@
-For slides, see [personal homepage](https://jneubert.de/slides)
+For my slides, see [personal homepage](https://jneubert.de/slides)
